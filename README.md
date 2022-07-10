@@ -1,3 +1,3 @@
-# <h1 style = "color : #33cc33 "><strong>Snake Game </strong>using _c++_ </h1>
+# **Snake** Game using _c++_
 
 <img src = "aim_snake.gif" height = 400px >
