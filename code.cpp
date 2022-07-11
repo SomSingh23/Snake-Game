@@ -112,11 +112,14 @@ int main(int args ,char *argv[]){
  fruit_x = rand()%width;
  fruit_y= rand()%height;
 cout<<"Snake Game Lessssssss Gooooooooo"<<nl;
+
 while(global_game){
     draw();
     move();
     som();
     ghar_wapas();
+    f(i,4)cout<<nl;
+    cout<<"Press x to exit"<<endl;
 }
 }
 
